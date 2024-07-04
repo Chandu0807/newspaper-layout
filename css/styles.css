@@ -206,6 +206,7 @@ body {
 @media (max-width: 767px) {
   .first {
       flex-direction: column;
+      width: 100%;
   }
 
   .first .hbox1, .first .hbox2, .first .hbox3 {
